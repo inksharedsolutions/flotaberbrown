@@ -31,7 +31,7 @@ const mainbottom = () =>{
 			 				<div className="card">
 							  
 							  <div className="card-image">
-							    <figure className="image is-4by5">
+							    <figure className="image">
 							      <img alt="main_book" src={MainBook} alt="Placeholder image" />
 							    </figure>
 							  </div>
