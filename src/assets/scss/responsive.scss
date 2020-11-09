@@ -140,6 +140,15 @@
 }
 
 @media only screen and (max-width: 375px){
+	.web-banner{
+		height: 300px !important;
+	}
+	
+.banr-foxtrot-heading{
+	&:before{
+	    height: 300px;
+	}
+}
 	.commentSection{
 		padding: 0 25px;
 	}
