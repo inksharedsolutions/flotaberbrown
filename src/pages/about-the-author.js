@@ -36,7 +36,7 @@ const abouttheauthor= (props) =>{
 					 			</div>
 
 					 			<h4>
-								 “The United States of America has changed over the last century.”
+								 “We need to return in our beliefs of yesteryear and live according to the Lord’s commands and to grow in our faith and sanctification or we will receive His wrath!”
 					 			</h4>
 
 					 			<span className="ata-span-fx">author quote</span>

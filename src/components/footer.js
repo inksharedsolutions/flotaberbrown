@@ -65,7 +65,7 @@ const footer = (props) =>{
 							<nav id="style_soc_medias">
 
 								<a
-									href="https://www.facebook.com/StrattonPressInc/"
+									href="https://www.facebook.com/Flo-Taber-Brown-108385704059717/"
 									target="_blank"
 									rel="noopener noreferrer" >
 

@@ -14,11 +14,11 @@ const IndexPage = (props) => {
 			<span className="banr-tagline-fx">Tagline</span>
 
 			<h1 className="front-banr-header-fx">
-			The United Stated of America has
-				<span className="banr-spn-highlight">changed over the last century</span>
+			We need to return in our beliefs of yesteryear and live according
+				<span className="banr-spn-highlight">to the Lord’s commands</span>
 
 				<p className="paragraph-content">
-				from one operating on godly principles to one in which many people have fallen into sinful behaviors:  pride, idolatry, pornography, sexual promiscuity, and on and on.
+				The United States of America has changed over the last century from one operating on godly principles to one in which many people have fallen into sinful behaviors:  pride, idolatry, pornography, sexual promiscuity, and on and on.
 				</p>
 
 				<Link

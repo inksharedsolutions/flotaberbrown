@@ -84,11 +84,11 @@ const abouttheauthor= (props) =>{
 								<section className="contentBook">
 									
 									 <p>
-									 This book is a collection of messages and prayers sent to members of a church during the covid-19 pandemic designed to provide comfort and guidance during based on the power of our Lord—Father, Son, and Holy Spirit. 
+									 This book is a collection of messages and prayers sent to members of a church during the covid-19 pandemic designed to provide comfort and guidance during based on the power of our Lord Father, Son, and Holy Spirit. 
 									 </p>
 									
 										<nav className="booklinkBlocks">
-										    <span>Comming Soon...</span>
+										    <span>Coming Soon...</span>
 										</nav>
 
 								</section>
