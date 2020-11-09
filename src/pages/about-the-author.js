@@ -9,7 +9,7 @@ const abouttheauthor= (props) =>{
 
 	const bannerText = (
 		<>
-			<span className="banr-tagline-fx">Thomas E. Martin</span>
+			<span className="banr-tagline-fx">Flo Taber-Brown</span>
 			<h1 className="banr-header-fx">
 				About the
 				<span className="banr-spn-highlight">Author</span>
@@ -36,7 +36,7 @@ const abouttheauthor= (props) =>{
 					 			</div>
 
 					 			<h4>
-								 “The United States of America has changed over the last century from one operating on godly principles to one in which many people have fallen into sinful behaviors:  pride, idolatry, pornography, sexual promiscuity, and on and on.”
+								 “The United States of America has changed over the last century.”
 					 			</h4>
 
 					 			<span className="ata-span-fx">author quote</span>
@@ -53,9 +53,6 @@ const abouttheauthor= (props) =>{
 									
 									After I was married, we moved to Clarksdale, Mississippi where I again taught Special Education and started my Master’s Degree at Old Miss.  We moved back to Michigan and settled in a town called Stevensville.  Besides teaching and having four beautiful daughters, I attended Western Michigan where I received my Master’s Degree in Special Education and also completed a Doctorate in the same area.
 
-								</p>
-								<p>
-									It was the first time that I had ever been away from home. But for the harassments of the instructors, I actually enjoyed the twelve weeks of basic training at a military in Texas, where for the first time ever, I became friends with a small group of black men who could make up a song about anything, a bar of soap or a pair of shoes or a bad situation etc. 
 								</p>
 								<p>	
 									

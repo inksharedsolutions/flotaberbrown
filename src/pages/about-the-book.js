@@ -12,13 +12,13 @@ const abouttheauthor= (props) =>{
 	const slug =(props.location.href);
 
 	const disqusConfig = {
-	  shortname: 'thomas-e-martin',
+	  shortname: 'flo-taber-brown',
 	  config: { identifier:  12, slug}
 	}
 
 	const bannerText = (
 		<>
-			<span className="banr-tagline-fx">Thomas E. Martin</span>
+			<span className="banr-tagline-fx">Flo Taber-Brown</span>
 			<h1 className="banr-header-fx">
 				About the
 				<span className="banr-spn-highlight">Book</span>
@@ -84,7 +84,7 @@ const abouttheauthor= (props) =>{
 								<section className="contentBook">
 									
 									 <p>
-									 This book is a collection of messages and prayers sent to members of a church during the covid-19 pandemic designed to provide comfort and giudance based on the power of our Lord - Father, Son, and Holy Spirit.
+									 This book is a collection of messages and prayers sent to members of a church during the covid-19 pandemic designed to provide comfort and guidance during based on the power of our Lord—Father, Son, and Holy Spirit. 
 									 </p>
 									
 										<nav className="booklinkBlocks">

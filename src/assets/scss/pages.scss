@@ -28,7 +28,7 @@ $prm-font-size : 12px;
 	    line-height: 1.7;
 	    font-size: 20px;
 	    font-style: italic;
-	    margin-top: 49px !important;
+	    margin-top: 10rem !important;
 	}
 }
 
@@ -42,7 +42,9 @@ $prm-font-size : 12px;
 }
 
 .author-image-container{
+
 	img{
+        display: block;
 	    width: 189px;
 	    border-radius: 50%;
 	    border: 25px solid #f9df7f57;

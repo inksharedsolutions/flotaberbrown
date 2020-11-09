@@ -8,7 +8,7 @@ const Contact = (props) =>{
 
 	const bannerText = (
 		<>
-			<span className="banr-tagline-fx">Thomas E. Martin</span>
+			<span className="banr-tagline-fx">Flo Taber-Brown</span>
 			<h1 className="banr-header-fx">
 				Get in
 				<span className="banr-spn-highlight">Touch</span>

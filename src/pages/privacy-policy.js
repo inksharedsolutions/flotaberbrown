@@ -10,7 +10,7 @@ const Pp = (props) =>{
 	const bannerText = (
 		<>
 			<span className="banr-tagline-fx">
-				Thomas E Martin
+				Flo Taber-Brown
 			</span>
 
 			<h1 className="banr-header-fx">
