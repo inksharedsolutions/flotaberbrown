@@ -38,6 +38,16 @@ const TaC = (props) =>{
 	 	<>
 	 		<Layout>
 	 			<Banner bannerContext={bannerText} defProps={props}/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+
 	 				<div className="container">
 						<div id="terms-and-conditions-content">
 							<div className="">{Parser(data.html)}</div>

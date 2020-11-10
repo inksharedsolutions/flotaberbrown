@@ -27,6 +27,10 @@ const abouttheauthor= (props) =>{
 			<br/>
 			<br/>
 			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
 
 			<div className="container">
 				<section className="body-author-contents columns">

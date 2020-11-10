@@ -35,6 +35,14 @@ const abouttheauthor= (props) =>{
 			<br/>
 			<br/>
 			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
 
 			<main className="wrapperMain">
 				<div className='container'>

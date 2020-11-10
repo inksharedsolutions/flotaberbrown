@@ -42,6 +42,16 @@ const Contact = (props) =>{
 		<Layout>
 
 			<Banner bannerContext={bannerText} defProps={props} />
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+
 			<main className="flexMainContainer">
 				<div className="flex-container-fx">
 

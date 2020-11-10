@@ -41,6 +41,16 @@ const Pp = (props) =>{
 		 	<Layout>
 		 		
 	 			<Banner bannerContext={bannerText} defProps={props} />
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+
 
 	 			<div className="container">
 					<div id="privacy-policy-content">
