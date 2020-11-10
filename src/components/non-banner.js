@@ -7,7 +7,7 @@ const banner = (props) => {
 	console.log(props.defProps.path);
 
 	return(
-		<section className="web-banner">
+		<section className="non-web-banner">
 			<div className="container">
 				<div className="columns">
 					 <div className="column">
