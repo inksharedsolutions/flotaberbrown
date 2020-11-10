@@ -1,6 +1,6 @@
 import React from 'react'
 import Layout from "../components/layout"
-import Banner from "../components/banner"
+import Banner from "../components/non-banner"
 import { useStaticQuery, graphql } from "gatsby"
 import Parser from 'html-react-parser';
 

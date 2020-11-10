@@ -1,6 +1,6 @@
 import React from 'react'
 import Layout from "../components/layout"
-import Banner from "../components/banner"
+import Banner from "../components/non-banner"
 import Book from '../assets/img/books/book_main.png'
 import Book2 from '../assets/img/books/book2.png'
 import { DiscussionEmbed } from "disqus-react"

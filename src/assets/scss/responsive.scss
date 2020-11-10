@@ -140,15 +140,17 @@
 }
 
 @media only screen and (max-width: 375px){
-	.web-banner{
-		height: 300px !important;
+
+	.non-banr-foxtrot-heading{
+		&:before{
+			height: 300px;
+		}
+	}
+
+	.wrapper-banner {
+		padding-bottom: 10px !important;
 	}
 	
-.banr-foxtrot-heading{
-	&:before{
-	    height: 300px;
-	}
-}
 	.commentSection{
 		padding: 0 25px;
 	}
@@ -173,7 +175,8 @@
 
 @media only screen and (max-width: 414px){
 	.front-banr-header-fx {
-		font-size: 30px !important;
+		font-size: 
+		20px !important;
 	}
 }
 
