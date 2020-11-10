@@ -22,6 +22,12 @@ const abouttheauthor= (props) =>{
 
 			<Banner bannerContext={bannerText} defProps={props} />
 
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+			<br/>
+
 			<div className="container">
 				<section className="body-author-contents columns">
 					 	<div className="column">

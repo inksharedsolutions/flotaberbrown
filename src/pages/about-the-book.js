@@ -31,6 +31,10 @@ const abouttheauthor= (props) =>{
 		<Layout>
 		
 			<Banner bannerContext={bannerText} defProps={props} />
+			<br/>
+			<br/>
+			<br/>
+			<br/>
 
 			<main className="wrapperMain">
 				<div className='container'>
