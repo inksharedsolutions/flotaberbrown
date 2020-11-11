@@ -58,11 +58,8 @@ const abouttheauthor= (props) =>{
 								<section className="contentBook">
 									
 									<p>
-									 This book is written so that people will realize many of the behaviors and thinking what our hearts feel is contrary to what is our operating manual. 
-									 </p>
-									 <p>
-									 Flo Taber-Brown taught special education for many years before going to seminary to be a clergy member. She previously wrote a book entitled Microcomputers in Special Education. Flo and her husband have nine children, twenty-seven grandchildren, and twelve great-grandchildren. She is a hospital chaplain and a deacon in her church.
-									 </p>
+										This book is written so that people will realize that many of the behaviors exhibited today, and what our hearts feel, are contrary to what is written for us to follow in our “Operating Manual,” The Holy Bible.
+									</p>
 									
 										<nav className="booklinkBlocks">
 										    <span>Ebooks :</span>
@@ -96,7 +93,7 @@ const abouttheauthor= (props) =>{
 								<section className="contentBook">
 									
 									 <p>
-									 This book is a collection of messages and prayers sent to members of a church during the covid-19 pandemic designed to provide comfort and guidance during based on the power of our Lord Father, Son, and Holy Spirit. 
+									 This book is a collection of messages and prayers sent to members of a church during the covid-19 pandemic. They were designed to provide comfort and guidance during this uncomfortable time; and they were based on the power of our Lord -- Father, Son, and Holy Spirit. 
 									 </p>
 									
 										<nav className="booklinkBlocks">
