@@ -64,7 +64,7 @@ const abouttheauthor= (props) =>{
 										<nav className="booklinkBlocks">
 										    <span>Ebooks :</span>
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/God-NOT-Happy-Flo-Taber-Brown-ebook/dp/B084CVNJRY/ref=sr_1_1?keywords=9781643458601&qid=1580495858&sr=8-1">Amazon</a></li>
-											<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/god-is-not-happy/">Stratton Press</a></li>
+											{/*<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/god-is-not-happy/">Stratton Press</a></li>*/}
 											<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/god-is-not-happy-flo-taber-brown/1121077987?ean=9781643458601">Barnes & Noble</a></li>
 										</nav>
 
